@@ -1,6 +1,6 @@
 # Wlimate
 
-Wlimate is a simple Android Weather app that gets right to the point. 
+Wlimate is a simple Android Weather app that gets right to the point
 
 Features:
 •	Displays current weather, daily weather and weekly forecast using RecyclerView
