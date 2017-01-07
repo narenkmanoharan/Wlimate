@@ -35,3 +35,4 @@ Permissions required:
 
 •	Internet Access
 •	Location Services
+
