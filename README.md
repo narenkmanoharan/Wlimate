@@ -37,3 +37,21 @@ Wlimate is a simple Android Weather app that gets right to the point.
 -	Internet Access
 -	Location Services
 
+## Screenshots
+
+### Launcher Icon
+<img src="http://i.imgur.com/CS9PeSr.png" width="50">
+
+### Daily Weather
+
+<img src="http://i.imgur.com/3bVbbYF.png" width="300">
+
+<img src="http://i.imgur.com/FH13ulO.png" width="300">
+
+### Weekly Forecast
+
+<img src="http://i.imgur.com/81bfLma.png" width="300">
+
+<img src="http://i.imgur.com/igHtGNO.png" width="300">
+
+
